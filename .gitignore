@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+new_wspr.csv
+parsed_*.csv
+precise_alt.csv
